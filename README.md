@@ -1,2 +1,2 @@
 # Demo
-Practicing Git &amp; GitHub
+Practicing Git &amp; GitHub.
